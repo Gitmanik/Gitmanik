@@ -19,6 +19,7 @@
 
 - ⚡ Freshman of <i>Automatyka, cybernetyka i robotyka</i> at <i>Gdansk University of Technology</i>  
   
+- 🏆 1st place at DevOpsNinja competition organized by Credit Agricole and Dell Technologies! [(More info)](https://devopsninja.pl)
 
 - 🌱 Currently learning advanced C# and OSDev  
   
