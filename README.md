@@ -28,11 +28,3 @@
   
 
 - 📧 gitmanik@gitmanik.dev  
-  
-
-##
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gitmanik&show_icons=true&count_private=true&hide_border=true&theme=merko" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitmanik&hide_border=true&layout=compact&theme=merko" align="center" /></div>  
-
-<br />
