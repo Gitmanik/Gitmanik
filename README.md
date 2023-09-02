@@ -25,6 +25,7 @@
   
 
 - 🎮 Huge fan of survival/open-world games   
-  
+
+- Resume (currently only in Polish) <a href="https://gitmanik.dev/cv.pdf" target="_blank"> here!</a>
 
 - 📧 gitmanik@gitmanik.dev  
