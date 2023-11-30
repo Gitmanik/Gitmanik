@@ -17,7 +17,7 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>  
 
-- ⚡ Freshman of <i>Automatyka, cybernetyka i robotyka</i> at <i>Gdansk University of Technology</i>  
+- ⚡ 2nd year <i>Automatyka, cybernetyka i robotyka</i> at <i>Gdansk University of Technology</i>  
   
 - 🏆 1st place at DevOpsNinja competition organized by Credit Agricole and Dell Technologies! (12.2022-01.2023) [(More info)](https://devopsninjakonkurs.pl)
 
