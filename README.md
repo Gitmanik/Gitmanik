@@ -21,6 +21,8 @@
   
 - 🏆 1st place at DevOpsNinja competition organized by Credit Agricole and Dell Technologies! (12.2022-01.2023) [(More info)](https://web.archive.org/web/20230108000250/https://devopsninjakonkurs.pl/)
 
+- 🏆 1st place at Best Coding Maraton 2024 competition organized by BEST Gdańsk partnered with Kainos and Gdańskie Centrum Informatyczne! (10-11.01.2024) [(More info)](https://bestcodingmarathon.pl/) [(Repo)](https://github.com/Gitmanik/hackathon2024/tree/ostatni_konkursowy_commit)
+
 - 🌱 Currently learning advanced C# and OSDev  
   
 
