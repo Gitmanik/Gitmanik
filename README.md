@@ -9,19 +9,16 @@
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>  
 
 - ⚡ 3rd year <i>Automatyka, cybernetyka i robotyka</i> at <i>Gdansk University of Technology</i>  
   
-- 🏆 1st place at DevOpsNinja competition organized by Credit Agricole and Dell Technologies! (12.2022-01.2023) [(More info)](https://web.archive.org/web/20230108000250/https://devopsninjakonkurs.pl/)
+- 🏆 1st place at DevOpsNinja competition organized by Credit Agricole and Dell Technologies! (12.2022-01.2023) ([More info](https://web.archive.org/web/20230108000250/https://devopsninjakonkurs.pl/))
 
-- 🏆 1st place at Best Coding Maraton 2024 competition organized by BEST Gdańsk partnered with Kainos and Gdańskie Centrum Informatyczne! (10-11.01.2024) [(More info)](https://bestcodingmarathon.pl/) [(Repo)](https://github.com/Gitmanik/hackathon2024/tree/ostatni_konkursowy_commit)
+- 🏆 1st place at Best Coding Maraton 2024 competition organized by BEST Gdańsk partnered with Kainos and Gdańskie Centrum Informatyczne! (10-11.01.2024) ([More info](https://bestcodingmarathon.pl/)) ([Repo](https://github.com/Gitmanik/hackathon2024/tree/ostatni_konkursowy_commit))
 
 - 🌱 Currently learning advanced C# and OSDev  
   
@@ -33,3 +30,7 @@
 - Resume in English <a href="https://gitmanik.dev/cv_eng.pdf" target="_blank"> here!</a>
 
 - 📧 gitmanik@gitmanik.dev  
+
+- 💡 Games
+  * [2dShooter](https://gitmanik.dev/2ds) - multiplayer restricted-view 2D shooter ([Repo](https://github.com/Gitmanik/2dshooter))
+  * [Golf](https://gitmanik.dev/golf) - golfing minigame made in Unity ([Repo](https://github.com/Gitmanik/golf))
