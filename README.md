@@ -31,6 +31,10 @@
 
 - 📧 gitmanik@gitmanik.dev  
 
-- 💡 Games
+- 💡 Projects
+  * GitOS - graphical operating system ([Repo](https://github.com/Gitmanik/GitOS))
+  * [GiTrip](https://logger.gitmanik.dev:2510/gitrip) - route-planning app written for BEST Coding Marathon 2024 ([Repo](https://github.com/Gitmanik/GiTrip))
   * [2dShooter](https://gitmanik.dev/2ds) - multiplayer restricted-view 2D shooter ([Repo](https://github.com/Gitmanik/2dshooter))
   * [Golf](https://gitmanik.dev/golf) - golfing minigame made in Unity ([Repo](https://github.com/Gitmanik/golf))
+  * [WireWorld](https://gitmanik.dev/wireworld) - implementation of cellular automata in Rust ([Repo](https://github.com/Gitmanik/WireWorld))
+  * [RLC Circuit Calculator](https://gitmanik.github.io/rlc-circuit-calculator/) - small website for calculating RLC circuits written as project for GUT ([Repo](https://github.com/Gitmanik/rlc-circuit-calculator))
