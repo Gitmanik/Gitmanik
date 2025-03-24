@@ -34,6 +34,7 @@
 - 💡 Projects
   * GitOS - graphical operating system ([Repo](https://github.com/Gitmanik/GitOS))
   * GitHome - complete SmartHome solution ([Repo](https://github.com/Gitmanik/GitHome))
+  * Raymond Maarloeve - innovative detective game leveraging local LLMs for unique gameplay ([Repo](https://github.com/Gitmanik/RaymondMaarloeve))
   * [GiTrip](https://logger.gitmanik.dev:2510/gitrip) - route-planning app written for BEST Coding Marathon 2024 ([Repo](https://github.com/Gitmanik/GiTrip))
   * [2dShooter](https://gitmanik.dev/2ds) - multiplayer restricted-view 2D shooter ([Repo](https://github.com/Gitmanik/2dshooter))
   * [Golf](https://gitmanik.dev/golf) - golfing minigame made in Unity ([Repo](https://github.com/Gitmanik/golf))
