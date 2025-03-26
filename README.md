@@ -43,3 +43,4 @@
   * SimpleCommandPanel - Flask server hosting my Todoist and Servers' statuses on old repurposed E-Ink reader ([Repo](https://github.com/Gitmanik/SimpleCommandPanel))
   * PiPanel - interfacing LCDs (ILI9327, PCD8544) using RaspberryPi's GPIO and C# ([Repo](https://github.com/Gitmanik/PiPanel))
   * GitmanikPlugin - Minecraft SMP Plugin enhancing gameplay ([Repo](https://github.com/Gitmanik/GitmanikPlugin))
+  * GitmanikUnityConsole - easy-to-use in-game console leveraging Reflection for Unity-based projects ([Repo](https://github.com/Gitmanik/GitmanikUnityConsole))
