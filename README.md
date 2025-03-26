@@ -42,3 +42,4 @@
   * [RLC Circuit Calculator](https://gitmanik.github.io/rlc-circuit-calculator/) - small website for calculating RLC circuits written as project for GUT ([Repo](https://github.com/Gitmanik/rlc-circuit-calculator))
   * SimpleCommandPanel - Flask server hosting my Todoist and Servers' statuses on old repurposed E-Ink reader ([Repo](https://github.com/Gitmanik/SimpleCommandPanel))
   * PiPanel - interfacing LCDs (ILI9327, PCD8544) using RaspberryPi's GPIO and C# ([Repo](https://github.com/Gitmanik/PiPanel))
+  * GitmanikPlugin - Minecraft SMP Plugin enhancing gameplay ([Repo](https://github.com/Gitmanik/GitmanikPlugin))
