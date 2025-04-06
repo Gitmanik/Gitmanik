@@ -38,10 +38,10 @@
   * [GiTrip](https://logger.gitmanik.dev:2510/gitrip/) - route-planning app written for BEST Coding Marathon 2024 ([Repo](https://github.com/Gitmanik/GiTrip))
   * [2dShooter](https://gitmanik.dev/2ds) - multiplayer restricted-view 2D shooter ([Repo](https://github.com/Gitmanik/2dshooter))
   * [Golf](https://gitmanik.dev/golf) - mobile-friendly golfing minigame made in Unity ([Repo](https://github.com/Gitmanik/golf))
-  * [WireWorld](https://gitmanik.dev/wireworld) - implementation of cellular automata in Rust ([Repo](https://github.com/Gitmanik/WireWorld))\
+  * [WireWorld](https://gitmanik.dev/wireworld) - implementation of cellular automata in Rust ([Repo](https://github.com/Gitmanik/WireWorld))
   * [RLC Circuit Calculator](https://gitmanik.github.io/rlc-circuit-calculator/) - small website for calculating RLC circuits written as project for GUT ([Repo](https://github.com/Gitmanik/rlc-circuit-calculator))
   * SimpleCommandPanel - Flask server hosting my Todoist and Servers' statuses on old repurposed E-Ink reader ([Repo](https://github.com/Gitmanik/SimpleCommandPanel))
   * PiPanel - interfacing LCDs (ILI9327, PCD8544) using RaspberryPi's GPIO and C# ([Repo](https://github.com/Gitmanik/PiPanel))
   * GitmanikPlugin - Minecraft SMP Plugin enhancing gameplay ([Repo](https://github.com/Gitmanik/GitmanikPlugin))
   * GitmanikUnityConsole - easy-to-use in-game console leveraging Reflection for Unity-based projects ([Repo](https://github.com/Gitmanik/GitmanikUnityConsole))
-  * [Planet Conqueror](https://gitmanik.github.io/PlanetConqueror/) (in progress) - mobile-friendly expansion war game written in Python made as project for GUT ([Repo](https://github.com/Gitmanik/PlanetConqueror))
+  * [Planet Conqueror](https://gitmanik.github.io/PlanetConqueror/) - mobile-friendly expansion war game written in Python made as project for GUT ([Repo](https://github.com/Gitmanik/PlanetConqueror))
