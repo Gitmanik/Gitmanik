@@ -14,7 +14,7 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 </div>  
 
-- ⚡ 3rd year <i>Automatyka, cybernetyka i robotyka</i> at <i>Gdansk University of Technology</i>  
+- ⚡ 4th year <i>Automatyka, cybernetyka i robotyka</i> at <i>Gdansk University of Technology</i>  
   
 - 🏆 1st place at DevOpsNinja competition organized by Credit Agricole and Dell Technologies! (12.2022-01.2023) ([More info](https://web.archive.org/web/20230108000250/https://devopsninjakonkurs.pl/))
 
